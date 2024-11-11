@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Nikos Lykotomaros
+another passionate fella
 
-<!--
-**nikoswsn/nikoswsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐕 My pet project [Playton](https://playton.gr/)
+Finding the perfect extracurricular activity for you or your kids should be effortless—Playton makes it easy to discover and connect with local options, tailored to fit your interests and schedule!
 
-Here are some ideas to get you started:
+# 🧪 I’m currently experimenting with
+NLP and LLMs
+Next in line: Vector Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I ❤️
+Typescript / Python / 
+Postgres / Mongo / Redis
+Next.js / React Native / Angular
+Express / 
+Redux / RxJS / Charts.js 
+Plotly / Pandas / BeautifulSoup / Jupyter
+Twillio / Stripe / Algolia
+AWS / Ngnix
+
+# I experienced
+Bash / PHP / Java
+Ember / jQuery
+SQLite / MySQL
+Django / Flask / Tornado / Fast API
+Matplotlib / numpy / 
+Docker / GCP / Azure / Firebase
+
+
+# One day I'll
+Svelte /
+GraphQL / 
+Elastic Search / Logstash / Kibana
+Hetzner / Kubernetes
