@@ -10,25 +10,40 @@ Next in line: Vector Databases
 
 # I ❤️
 Typescript / Python / 
+
 Postgres / Mongo / Redis
+
 Next.js / React Native / Angular
+
 Express / 
+
 Redux / RxJS / Charts.js 
+
 Plotly / Pandas / BeautifulSoup / Jupyter
+
 Twillio / Stripe / Algolia
+
 AWS / Ngnix
 
 # I experienced
 Bash / PHP / Java
+
 Ember / jQuery
+
 SQLite / MySQL
+
 Django / Flask / Tornado / Fast API
+
 Matplotlib / numpy / 
+
 Docker / GCP / Azure / Firebase
 
 
 # One day I'll
 Svelte /
+
 GraphQL / 
+
 Elastic Search / Logstash / Kibana
+
 Hetzner / Kubernetes
